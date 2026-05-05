@@ -20,6 +20,8 @@ Não aplicável — o professor confirmou durante a aula que mensageria (RabbitM
 ## 4. Diagrama de Classes
 
 > Inserir imagem do diagrama aqui (docs/diagrama-classes.png)
+<img width="641" height="581" alt="diagrama-classes drawio" src="https://github.com/user-attachments/assets/e85032e5-a47f-4ee9-8015-9ec4f723c2ce" />
+
 
 ## 5. Como Rodar Localmente
 
